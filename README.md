@@ -2,11 +2,11 @@
 
 Este site foi criado durante meus primeiros estudos de Desenvolvimento Web.
 
-# Tecnologia utilizada
+## Tecnologia utilizada
 - HTML
 
-# Sobre o Projeto
+## Sobre o Projeto
 Este é um desafio de projeto proposto pela DIO, com o objetivo praticar os conceitos aprendidos nas aulas do primeiro módulo da formação.
 
-# Autor
+## Autor
 Dhiego Castro
